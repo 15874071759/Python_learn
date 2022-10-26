@@ -6,6 +6,7 @@
 # @Software: PyCharm
 import random
 
+
 def generateStr():
     SOURCE = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
     MY = []

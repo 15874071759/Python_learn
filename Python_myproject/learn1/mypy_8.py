@@ -77,14 +77,15 @@
 #传递可变对象
 
 a = [10,20]
-print(id(a))
-print(a)
-print('*************')
-def test01(m):
+# print(id(a))
+# print(a)
+# print('*************')
+def tt01(m):
     print(id(m))
     m.append(300)
     print(id(m))
     print(m)
+    a = 100
+    return a,m
 
-test01(a)
-print(a)
+print(tt01(a))

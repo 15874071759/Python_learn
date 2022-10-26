@@ -6,6 +6,7 @@
 # @Software: PyCharm
 import pytest
 
+
 # @pytest.fixture()  # 默认参数，每个测试方法前调用
 # def before():
 #    print('before each test')
@@ -33,9 +34,11 @@ class Foo(object):
         print(self.a, self.b, self.c)
         return True
 
+
 @pytest.fixture(params=[["1", "2", "3"], ["x", "y", "z"]])
 def foo(request):
     return Foo(*request.param)
+
 
 def test_foo(foo):
     assert foo.echo()

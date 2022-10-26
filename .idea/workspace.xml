@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7e75d7d-bc5e-40a8-83be-813da97b19ec" name="Default Changelist" comment="更改备注">
+      <change afterPath="$PROJECT_DIR$/.idea/Python_learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_myproject/learn1/learn_time 模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_myproject/learn1/mypy3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_myproject/learn1/mypy_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_myproject/learn11_数据库编程输出/15操作mysql数据库_LB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_myproject/learn5_算法/二分查找.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/随机手势密码-pp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/随机手势密码.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/dbFile/demo.db" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/dbFile/demo.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn1/callfunc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn1/callfunc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn1/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn1/deffunc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn1/deffunc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn1/learn_allure.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn1/learn_log.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn1/learn_pactverify.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn1/learnpytest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn1/learnpytest1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn1/mypy10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn1/mypy10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn1/mypy3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn1/mypy_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn1/mypy_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn1/mypy_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn1/mypy_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn1/mypy_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn1/mypy_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn1/mypy_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn1/mypy_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn1/mypy_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn1/mypy_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn1/mypy_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn1/mypy_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn1/mypy_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn1/mypy_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn1/mypy_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn10/Salary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn10/Salary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn10/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn10/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn10/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn10/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn11_数据库编程输出/01操作sqlite3创建表.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn11_数据库编程输出/01操作sqlite3创建表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn11_数据库编程输出/02操作sqlite3数据库插入一条数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn11_数据库编程输出/02操作sqlite3数据库插入一条数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn11_数据库编程输出/03操作sqlite3数据库插入多条数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn11_数据库编程输出/03操作sqlite3数据库插入多条数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn11_数据库编程输出/04操作sqlite3查询多条数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn11_数据库编程输出/04操作sqlite3查询多条数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn11_数据库编程输出/05操作sqlite3查询一条数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn11_数据库编程输出/05操作sqlite3查询一条数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn11_数据库编程输出/06操作sqlite3数据库修改数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn11_数据库编程输出/06操作sqlite3数据库修改数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn11_数据库编程输出/07操作sqlite3删除数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn11_数据库编程输出/07操作sqlite3删除数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn11_数据库编程输出/08操作mysql数据创建表.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn11_数据库编程输出/08操作mysql数据创建表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn11_数据库编程输出/09操作mysql数据库插入一条数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn11_数据库编程输出/09操作mysql数据库插入一条数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn11_数据库编程输出/10操作mysql数据库插入多条数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn11_数据库编程输出/10操作mysql数据库插入多条数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn11_数据库编程输出/11操作mysql数据查询所有数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn11_数据库编程输出/11操作mysql数据查询所有数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn11_数据库编程输出/12操作mysql数据库查询一条数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn11_数据库编程输出/12操作mysql数据库查询一条数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn11_数据库编程输出/13操作mysql数据库修改数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn11_数据库编程输出/13操作mysql数据库修改数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn11_数据库编程输出/14操作mysql数据库删除数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn11_数据库编程输出/14操作mysql数据库删除数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn11_数据库编程输出/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn11_数据库编程输出/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn12_numpy/01检测numpy模块是否安装成功.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn12_numpy/01检测numpy模块是否安装成功.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn12_numpy/02 array创建数组.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn12_numpy/02 array创建数组.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn12_numpy/03 arange创建数组.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn12_numpy/03 arange创建数组.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn12_numpy/04随机数创建.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn12_numpy/04随机数创建.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn12_numpy/05 ndarray对象属性.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn12_numpy/05 ndarray对象属性.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn12_numpy/06 其他方式创建数组.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn12_numpy/06 其他方式创建数组.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn12_numpy/07 一维数组的切片和索引.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn12_numpy/07 一维数组的切片和索引.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn12_numpy/08 二维数组的切片和索引使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn12_numpy/08 二维数组的切片和索引使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn12_numpy/09 数组的复制.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn12_numpy/09 数组的复制.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn12_numpy/10 修改数组的维度.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn12_numpy/10 修改数组的维度.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn12_numpy/11 数组的拼接.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn12_numpy/11 数组的拼接.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn12_numpy/12 数组的分割.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn12_numpy/12 数组的分割.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn12_numpy/13 数组的转置.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn12_numpy/13 数组的转置.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn12_numpy/14 函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn12_numpy/14 函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn12_numpy/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn12_numpy/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/01 模拟唱歌和跳舞.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/01 模拟唱歌和跳舞.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/02 创建子进程并执行.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/02 创建子进程并执行.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/03 创建子进程并传递参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/03 创建子进程并传递参数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/04 join方法的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/04 join方法的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/05 join方法中timeout使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/05 join方法中timeout使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/06 Process两个属性的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/06 Process两个属性的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/07 创建多个任务.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/07 创建多个任务.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/08 使用继承创建进程.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/08 使用继承创建进程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/09进程池非阻塞状态使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/09进程池非阻塞状态使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/10进程池阻塞状态的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/10进程池阻塞状态的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/11 多个进程之间数据是否共享.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/11 多个进程之间数据是否共享.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/11 队列中常用方法的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/11 队列中常用方法的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/12多进程之间通信.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/12多进程之间通信.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/13多进程之间通信2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/13多进程之间通信2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/14 _thread实现线程.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/14 _thread实现线程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/15 _thread创建线程并传递参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/15 _thread创建线程并传递参数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/16 threading中的Tread创建线程.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/16 threading中的Tread创建线程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/17 继承thrading.Tread实现线程.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/17 继承thrading.Tread实现线程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/18 线程共享全局变量.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/18 线程共享全局变量.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/19 线程共享全局变量存在问题.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/19 线程共享全局变量存在问题.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/20 互斥锁的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/20 互斥锁的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/21 互斥锁的使用2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/21 互斥锁的使用2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/22 线程同步的应用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/22 线程同步的应用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/23 生产者消费者模式.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/23 生产者消费者模式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/24 ThreadLocal的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/24 ThreadLocal的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn13_并发编程/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn13_并发编程/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn14_网络编程/01 使用UDP发送数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn14_网络编程/01 使用UDP发送数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn14_网络编程/02 UDP发送数据_接收数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn14_网络编程/02 UDP发送数据_接收数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn14_网络编程/03 UDP使用多线程完成聊天.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn14_网络编程/03 UDP使用多线程完成聊天.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn14_网络编程/04 TFTP下载器客户端.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn14_网络编程/04 TFTP下载器客户端.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn14_网络编程/05 TCP服务器端接收数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn14_网络编程/05 TCP服务器端接收数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn14_网络编程/06 TCP模拟QQ客户端.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn14_网络编程/06 TCP模拟QQ客户端.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn14_网络编程/07 TCP模拟QQ服务端.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn14_网络编程/07 TCP模拟QQ服务端.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn14_网络编程/08 TCP多线程完成聊天服务器端.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn14_网络编程/08 TCP多线程完成聊天服务器端.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn14_网络编程/09 TCP多线程完成聊天客户端.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn14_网络编程/09 TCP多线程完成聊天客户端.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn14_网络编程/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn14_网络编程/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn14_网络编程/face.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn14_网络编程/face.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn15_函数式编程和高阶函数/01高阶函数map使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn15_函数式编程和高阶函数/01高阶函数map使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn15_函数式编程和高阶函数/02高阶函数map将数字转化为字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn15_函数式编程和高阶函数/02高阶函数map将数字转化为字符串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn15_函数式编程和高阶函数/03高阶函数map传递两个列表.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn15_函数式编程和高阶函数/03高阶函数map传递两个列表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn15_函数式编程和高阶函数/04 高阶函数reduce.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn15_函数式编程和高阶函数/04 高阶函数reduce.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn15_函数式编程和高阶函数/05 高阶函数reduce的使用2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn15_函数式编程和高阶函数/05 高阶函数reduce的使用2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn15_函数式编程和高阶函数/06 高阶函数filter的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn15_函数式编程和高阶函数/06 高阶函数filter的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn15_函数式编程和高阶函数/07 高阶函数sorted的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn15_函数式编程和高阶函数/07 高阶函数sorted的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn15_函数式编程和高阶函数/08 匿名函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn15_函数式编程和高阶函数/08 匿名函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn15_函数式编程和高阶函数/09 闭包的概念.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn15_函数式编程和高阶函数/09 闭包的概念.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn15_函数式编程和高阶函数/10 使用闭包求两点之间的距离.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn15_函数式编程和高阶函数/10 使用闭包求两点之间的距离.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn15_函数式编程和高阶函数/11 闭包的特殊用途.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn15_函数式编程和高阶函数/11 闭包的特殊用途.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn15_函数式编程和高阶函数/12 装饰器的基本使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn15_函数式编程和高阶函数/12 装饰器的基本使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn15_函数式编程和高阶函数/13 装饰器练习.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn15_函数式编程和高阶函数/13 装饰器练习.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn15_函数式编程和高阶函数/14 多个装饰器.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn15_函数式编程和高阶函数/14 多个装饰器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn15_函数式编程和高阶函数/15 带参数的装饰器.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn15_函数式编程和高阶函数/15 带参数的装饰器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn15_函数式编程和高阶函数/16 通用装饰器.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn15_函数式编程和高阶函数/16 通用装饰器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn15_函数式编程和高阶函数/17 偏函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn15_函数式编程和高阶函数/17 偏函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn15_函数式编程和高阶函数/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn15_函数式编程和高阶函数/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn15_函数式编程和高阶函数/wirteLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn15_函数式编程和高阶函数/wirteLog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn16_正则表达式/01 match方法的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn16_正则表达式/01 match方法的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn16_正则表达式/02 常用字符的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn16_正则表达式/02 常用字符的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn16_正则表达式/03 匹配手机号码.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn16_正则表达式/03 匹配手机号码.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn16_正则表达式/04 重复数量号码.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn16_正则表达式/04 重复数量号码.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn16_正则表达式/05 重复数量限定符的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn16_正则表达式/05 重复数量限定符的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn16_正则表达式/06 转译字符的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn16_正则表达式/06 转译字符的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn16_正则表达式/07 边界字符的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn16_正则表达式/07 边界字符的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn16_正则表达式/08 search方法的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn16_正则表达式/08 search方法的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn16_正则表达式/09 匹配多个字符.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn16_正则表达式/09 匹配多个字符.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn16_正则表达式/10 择一匹配符列表使用差异.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn16_正则表达式/10 择一匹配符列表使用差异.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn16_正则表达式/11 匹配分组.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn16_正则表达式/11 匹配分组.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn16_正则表达式/12 其他函数的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn16_正则表达式/12 其他函数的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn16_正则表达式/13 贪婪模式和非贪婪模式.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn16_正则表达式/13 贪婪模式和非贪婪模式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn16_正则表达式/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn16_正则表达式/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn17_协程_异步I O/01 yeild的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn17_协程_异步I O/01 yeild的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn17_协程_异步I O/02 使用yield实现协程.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn17_协程_异步I O/02 使用yield实现协程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn17_协程_异步I O/03 send发送一个参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn17_协程_异步I O/03 send发送一个参数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn17_协程_异步I O/04 yield实现生产者和消费者传递数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn17_协程_异步I O/04 yield实现生产者和消费者传递数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn17_协程_异步I O/05 异步和同步的概念.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn17_协程_异步I O/05 异步和同步的概念.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn17_协程_异步I O/06 定义协程.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn17_协程_异步I O/06 定义协程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn17_协程_异步I O/07 创建任务task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn17_协程_异步I O/07 创建任务task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn17_协程_异步I O/08 绑定回调.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn17_协程_异步I O/08 绑定回调.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn17_协程_异步I O/09 阻塞和await.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn17_协程_异步I O/09 阻塞和await.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn17_协程_异步I O/10 asyncio实现并发.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn17_协程_异步I O/10 asyncio实现并发.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn17_协程_异步I O/11 协程的嵌套.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn17_协程_异步I O/11 协程的嵌套.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn17_协程_异步I O/12 协程停止.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn17_协程_异步I O/12 协程停止.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn17_协程_异步I O/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn17_协程_异步I O/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn2 类和对象/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn2/my00_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn2 类和对象/my00_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn2/my00_08.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn2 类和对象/my00_08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn2/myoo_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn2 类和对象/myoo_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn2/myoo_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn2 类和对象/myoo_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn2/myoo_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn2 类和对象/myoo_04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn2/myoo_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn2 类和对象/myoo_05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn2/myoo_06.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn2 类和对象/myoo_06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn2/myoo_07.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn2 类和对象/myoo_07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn2/myoo_08.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn2 类和对象/myoo_08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn2/myoo_09.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn2 类和对象/myoo_09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn2/myoo_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn2 类和对象/myoo_10工厂模式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn2/myoo_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn2 类和对象/myoo_11单例模式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn2/myoo_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn2 类和对象/myoo_12单例模式和工厂模式整合.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn3 文件/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn3/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn3 文件/a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn3/aa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn3 文件/aa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn3/aa_copy.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn3 文件/aa_copy.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn3/b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn3 文件/b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn3/data.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn3 文件/data.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn3/dd.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn3 文件/dd.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn3/e.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn3 文件/e.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn3/ee.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn3 文件/ee.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn3/file01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn3 文件/file01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn3/file02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn3 文件/file02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn3/file03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn3 文件/file03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn3/file04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn3 文件/file04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn3/file05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn3 文件/file05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn3/file06.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn3 文件/file06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn3/file07.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn3 文件/file07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn3/file08.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn3 文件/file08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn3/file09.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn3 文件/file09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn3/file10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn3 文件/file10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn3/file11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn3 文件/file11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn4/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn4/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn4/algo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn4/algo1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn4/algo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn4/algo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn4/algo3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn4/algo3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn4/gifts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn4/gifts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn4/target1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn4/target1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn4/target2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn4/target2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn4/target3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn4/target3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn4/数字组合.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn4/数字组合.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn4/随机数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn4/随机数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn5_算法/1冒泡排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn5_算法/1冒泡排序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn5_算法/2选择排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn5_算法/2选择排序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn5_算法/3插入排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn5_算法/3插入排序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn5_算法/4快速排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn5_算法/4快速排序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn5_算法/5归并排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn5_算法/5归并排序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn5_算法/6顺序查找.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn5_算法/6顺序查找.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn5_算法/7二分查找.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn5_算法/7二分查找.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn5_算法/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn5_算法/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn5_算法/递归算法1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn5_算法/递归算法1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn5_算法/递归算法2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn5_算法/递归算法2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn6_数据结构/1单向链表.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn6_数据结构/1单向链表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn6_数据结构/2双向链表.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn6_数据结构/2双向链表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn6_数据结构/3栈.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn6_数据结构/3栈.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn6_数据结构/4队列.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn6_数据结构/4队列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn6_数据结构/5二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn6_数据结构/5二叉树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn6_数据结构/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn6_数据结构/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn7/最长无重复子数组.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn7/最长递增子序列.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn8/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn8/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn8/1_copy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn8/1_copy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn8/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn8/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn8/a.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn8/a.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn8/movie/港台/周星驰/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn8/movie/港台/周星驰/11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn8/movie/港台/周星驰/ty.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn8/movie/港台/周星驰/ty.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn8/movie/港台/周星驰/功夫.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn8/movie/港台/周星驰/功夫.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn8/my01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn8/my01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn8/电影/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn8/电影/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn8/电影/1_copy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn8/电影/1_copy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn8/电影/abc.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn8/电影/abc.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn8/电影/周星驰/功夫.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn8/电影/周星驰/功夫.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn9/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn9/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn9/aa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn9/aa.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn9/my01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn9/my01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn9/my02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn9/my02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn9/my03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn9/my03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn9/my04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn9/my04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn9/my05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn9/my05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn9/my06.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn9/my06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn9/my07.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn9/my07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_class/learn9/my08.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_myproject/learn9/my08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_myproject/learn7/__init__.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python_learn$02_array.coverage" NAME="02 array创建数组 Coverage Results" MODIFIED="1644496797907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_class/learn12_numpy" />
+    <SUITE FILE_PATH="coverage/Python_project$16_threadingTread.coverage" NAME="16 threading中的Tread创建线程 Coverage Results" MODIFIED="1647853870551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_myproject/learn13_并发编程" />
+    <SUITE FILE_PATH="coverage/Python_project$04_join.coverage" NAME="04 join方法的使用 Coverage Results" MODIFIED="1647853665965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_myproject/learn13_并发编程" />
+    <SUITE FILE_PATH="coverage/Python_project$test.coverage" NAME="test Coverage Results" MODIFIED="1646043454425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/Python_project$.coverage" NAME="二分查找 Coverage Results" MODIFIED="1647336748926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_myproject/learn5_算法" />
+    <SUITE FILE_PATH="coverage/Python_project$02_.coverage" NAME="02 创建子进程并执行 Coverage Results" MODIFIED="1647853329718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_myproject/learn13_并发编程" />
+    <SUITE FILE_PATH="coverage/Python_learn$15mysql_LB.coverage" NAME="15操作mysql数据库_LB Coverage Results" MODIFIED="1642653558408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_class/learn11_数据库编程输出" />
+    <SUITE FILE_PATH="coverage/Python_project$xls.coverage" NAME="读取xls文件数据 Coverage Results" MODIFIED="1645698265524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/Python_project$yaml.coverage" NAME="读取yaml文件 Coverage Results" MODIFIED="1645698690863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/Python_learn$.coverage" NAME="最长无重复子数组 Coverage Results" MODIFIED="1645071163883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_learn/learn7" />
+    <SUITE FILE_PATH="coverage/Python_learn$mypy_8.coverage" NAME="mypy_8 Coverage Results" MODIFIED="1644495402312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_class/learn1" />
+    <SUITE FILE_PATH="coverage/Python_learn$_.coverage" NAME="最长回文子串_动态规划法 Coverage Results" MODIFIED="1645070396724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_learn/learn7" />
+    <SUITE FILE_PATH="coverage/Python_project$csv.coverage" NAME="读取csv文件 Coverage Results" MODIFIED="1645701837209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/Python_project$03_.coverage" NAME="03 创建子进程并传递参数 Coverage Results" MODIFIED="1647853357142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_myproject/learn13_并发编程" />
+    <SUITE FILE_PATH="coverage/Python_learn$pytest_in_mypy_8_py.coverage" NAME="pytest in mypy_8.py Coverage Results" MODIFIED="1644495314854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_class/learn1" />
+    <SUITE FILE_PATH="coverage/Python_learn$learn_time_.coverage" NAME="learn_time 模块 Coverage Results" MODIFIED="1644571797279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_class/learn1" />
+    <SUITE FILE_PATH="coverage/Python_project$07_.coverage" NAME="07 创建多个任务 Coverage Results" MODIFIED="1647853311621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_myproject/learn13_并发编程" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/temp/随机手势密码-pp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-858">
+              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/readme.txt" />
+        <option value="$PROJECT_DIR$/Python_class/learn11_数据库编程输出/15操作mysql数据库_LB.ipynb" />
+        <option value="$PROJECT_DIR$/Python_class/learn11_数据库编程输出/15操作mysql数据库_LB.py" />
+        <option value="$PROJECT_DIR$/Python_class/learn1/mypy_8.py" />
+        <option value="$PROJECT_DIR$/Python_class/learn1/learn_time 模块.py" />
+        <option value="$PROJECT_DIR$/Python_class/learn7/比特币最佳买卖时机.py" />
+        <option value="$PROJECT_DIR$/Python_class/learn7/漂流船问题.py" />
+        <option value="$PROJECT_DIR$/Python_class/learn7/输入三个数，判断三角形.py" />
+        <option value="$PROJECT_DIR$/Python_class/learn7/跳格子游戏.py" />
+        <option value="$PROJECT_DIR$/Python_class/learn7/小球弹起距离.py" />
+        <option value="$PROJECT_DIR$/Python_class/learn7/最长无重复子数组.py" />
+        <option value="$PROJECT_DIR$/Python_class/learn7/最长回文子串.py" />
+        <option value="$PROJECT_DIR$/Python_learn/learn7/最长回文子串.py" />
+        <option value="$PROJECT_DIR$/Python_learn/learn7/最长无重复子数组.py" />
+        <option value="$PROJECT_DIR$/Python_learn/learn7/最长回文子串_暴力解法.py" />
+        <option value="$PROJECT_DIR$/Python_learn/learn7/最长回文子串_动态规划法.py" />
+        <option value="$PROJECT_DIR$/Python_myproject/learn1/callfunc.py" />
+        <option value="$PROJECT_DIR$/Python_myproject/learn1/mypy3.py" />
+        <option value="$PROJECT_DIR$/Python_myproject/learn1/mypy_1.py" />
+        <option value="$PROJECT_DIR$/Python_myproject/learn1/mypy_2.py" />
+        <option value="$PROJECT_DIR$/Python_myproject/learn1/mypy_3.py" />
+        <option value="$PROJECT_DIR$/Python_myproject/learn7/无重复字符最长子串.py" />
+        <option value="$PROJECT_DIR$/temp/读取xls文件数据.py" />
+        <option value="$PROJECT_DIR$/temp/testYaml.yaml" />
+        <option value="$PROJECT_DIR$/temp/读取csv文件.py" />
+        <option value="$PROJECT_DIR$/temp/读取yaml文件.py" />
+        <option value="$PROJECT_DIR$/temp/test.py" />
+        <option value="$PROJECT_DIR$/Python_myproject/learn5_算法/7二分查找.py" />
+        <option value="$PROJECT_DIR$/Python_myproject/learn5_算法/二分查找.py" />
+        <option value="$PROJECT_DIR$/Python_myproject/learn13_并发编程/07 创建多个任务.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="345" />
+    <option name="y" value="309" />
+    <option name="width" value="1147" />
+    <option name="height" value="670" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_project" type="462c0819:PsiDirectoryNode" />
+              <item name="temp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/temp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/temp" />
+      <recent name="$PROJECT_DIR$/Python_class/learn1/learn" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.16 threading中的Tread创建线程">
+    <configuration name="漂流船问题" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_class/learn7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_class/learn7/漂流船问题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02 创建子进程并执行" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_myproject/learn13_并发编程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_myproject/learn13_并发编程/02 创建子进程并执行.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03 创建子进程并传递参数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_myproject/learn13_并发编程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_myproject/learn13_并发编程/03 创建子进程并传递参数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04 join方法的使用" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_myproject/learn13_并发编程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_myproject/learn13_并发编程/04 join方法的使用.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="07 创建多个任务" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_myproject/learn13_并发编程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_myproject/learn13_并发编程/07 创建多个任务.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="16 threading中的Tread创建线程" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_myproject/learn13_并发编程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_myproject/learn13_并发编程/16 threading中的Tread创建线程.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="跳格子游戏" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_class/learn7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_class/learn7/跳格子游戏.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="比特币最佳买卖时机" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_class/learn7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_class/learn7/比特币最佳买卖时机.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="最长无重复子数组" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_learn/learn7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_learn/learn7/无重复字符最长子串.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="最长回文子串" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_learn/learn7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_learn/learn7/最长回文子串_暴力解法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="最长无重复子数组" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_class/learn7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_class/learn7/最长无重复子数组.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="小球弹起距离" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_class/learn7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_class/learn7/小球弹起距离.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="漂流船问题" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_class/learn7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_class/learn7/漂流船问题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="跳格子游戏" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_class/learn7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_class/learn7/跳格子游戏.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.16 threading中的Tread创建线程" />
+        <item itemvalue="Python.04 join方法的使用" />
+        <item itemvalue="Python.03 创建子进程并传递参数" />
+        <item itemvalue="Python.02 创建子进程并执行" />
+        <item itemvalue="Python.07 创建多个任务" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7e75d7d-bc5e-40a8-83be-813da97b19ec" name="Default Changelist" comment="" />
+      <created>1642134064631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642134064631</updated>
+      <workItem from="1642134068034" duration="497000" />
+      <workItem from="1642134704512" duration="1761000" />
+      <workItem from="1642517030001" duration="18938000" />
+      <workItem from="1643031787465" duration="1683000" />
+      <workItem from="1643964779931" duration="1196000" />
+      <workItem from="1644491012178" duration="25174000" />
+      <workItem from="1644675556682" duration="3851000" />
+      <workItem from="1644731233610" duration="6367000" />
+      <workItem from="1644808766915" duration="6560000" />
+      <workItem from="1644898004887" duration="19439000" />
+      <workItem from="1645259333374" duration="26696000" />
+      <workItem from="1647174469861" duration="7726000" />
+      <workItem from="1647778088387" duration="4723000" />
+      <workItem from="1648091769853" duration="5296000" />
+      <workItem from="1650117306573" duration="42000" />
+      <workItem from="1650117367496" duration="634000" />
+    </task>
+    <task id="LOCAL-00001" summary="更改备注">
+      <created>1642149955185</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642149955185</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_mypy_8_py - 2022.02.10 at 20h 14m 35s.xml">
+      <configuration name="pytest in mypy_8.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_mypy_8_py - 2022.02.10 at 20h 15m 11s.xml">
+      <configuration name="pytest in mypy_8.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_mypy_8_py - 2022.02.10 at 20h 15m 15s.xml">
+      <configuration name="pytest in mypy_8.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="130583000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="55" y="35" width="1147" height="670" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49357328" visible="true" weight="0.32941177" />
+      <window_info id="Structure" order="1" sideWeight="0.50642675" side_tool="true" weight="0.2769231" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49773756" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989071" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32969034" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32969034" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5022625" side_tool="true" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4995475" weight="0.32786885" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32786885" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更改备注" />
+    <option name="LAST_COMMIT_MESSAGE" value="更改备注" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Algorithm/algorithm/algorithm_one/漂流船问题.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Algorithm/algorithm/algorithm_one/漂流船问题.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Algorithm/algorithm/algorithm_one/漂流船问题.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Algorithm/algorithm/algorithm_one/漂流船问题.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Algorithm/algorithm/algorithm_one/漂流船问题.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Algorithm/algorithm/algorithm_one/漂流船问题.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Algorithm/algorithm/algorithm_one/漂流船问题.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Algorithm/algorithm/algorithm_one/漂流船问题.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Algorithm/algorithm/algorithm_one/漂流船问题.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Algorithm/algorithm/algorithm_one/漂流船问题.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Algorithm/algorithm/algorithm_one/漂流船问题.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Algorithm/algorithm/algorithm_one/漂流船问题.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-644314080/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Algorithm/algorithm/algorithm_one/输入三个数，判断三角形.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Algorithm/algorithm/algorithm_one/漂流船问题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Algorithm/algorithm/algorithm_one/跳格子游戏.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Algorithm/algorithm/algorithm_one/比特币最佳买卖时机.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Algorithm/algorithm/algorithm_one/小球弹起距离.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Algorithm/algorithm/algorithm_one/最长递增子序列.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn5_算法/3插入排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn1/mypy_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-248" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn1/mypy_2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn1/mypy_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn1/mypy3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn1/callfunc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Algorithm/algorithm/algorithm_one/无重复字符最长子串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Algorithm/algorithm/algorithm_one/最长回文子串_动态规划法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Algorithm/algorithm/algorithm_one/最长回文子串_暴力解法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/testYaml.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn3 文件/file08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-244" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn3 文件/file07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn3 文件/file06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn3 文件/file05.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/testAccount.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/读取xls文件数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/读取yaml文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#138#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn5_算法/2选择排序.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn2 类和对象/myoo_12单例模式和工厂模式整合.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn2 类和对象/myoo_11单例模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn2 类和对象/myoo_10工厂模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn6_数据结构/1单向链表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-545">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn6_数据结构/2双向链表.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn6_数据结构/4队列.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn5_算法/7二分查找.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn5_算法/二分查找.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn13_并发编程/01 模拟唱歌和跳舞.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn13_并发编程/03 创建子进程并传递参数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="7" selection-start-line="7" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="e#150#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn13_并发编程/02 创建子进程并执行.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn6_数据结构/3栈.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn5_算法/1冒泡排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn13_并发编程/05 join方法中timeout使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-123" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn13_并发编程/06 Process两个属性的使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#154#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn13_并发编程/07 创建多个任务.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+          <folding>
+            <element signature="e#146#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn13_并发编程/08 使用继承创建进程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-203">
+          <folding>
+            <element signature="e#148#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn13_并发编程/13多进程之间通信2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-97">
+          <folding>
+            <element signature="e#147#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn13_并发编程/04 join方法的使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <folding>
+            <element signature="e#149#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn13_并发编程/14 _thread实现线程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="e#151#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn13_并发编程/16 threading中的Tread创建线程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="7" selection-start-line="7" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="e#160#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/读取csv文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="36" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_myproject/learn5_算法/4快速排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/随机手势密码.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/随机手势密码-pp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-858">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

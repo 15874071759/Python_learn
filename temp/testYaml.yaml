@@ -1,0 +1,25 @@
+tests:
+  - case: query
+    params:
+      withdraw: 0
+  - case: query
+    params:
+      withdraw: 1
+  - case: add
+    params:
+      account_name: 添加测试一号
+      remark: 添加一号
+  - case: add
+    params:
+      account_name: 添加测试二号
+      remark:
+  - case: edit
+    params:
+      account_name: 修改测试一号
+      remark: 修改一号
+  - case: edit
+    params:
+      account_name: 修改测试二号
+      remark:
+  - case: delete
+    params: None

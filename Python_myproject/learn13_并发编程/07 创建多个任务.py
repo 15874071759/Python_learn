@@ -26,7 +26,7 @@ def work3(interval):
 
 if __name__ == '__main__':
     print('执行主进程')
-    p1 = Process(target=work1,args=(4,))
+    p1 = Process(target=work1,args=(2,))
     p2 = Process(target=work2,args=(2,))
     p3 = Process(target=work3,args=(3,))
     #调用子进程
